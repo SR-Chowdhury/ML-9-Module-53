@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "John",
+      "physics": 95,
+      "maths": 92,
+      "chemistry": 89
+    },
+    {
+      "id": 2,
+      "name": "Smith",
+      "physics": 88,
+      "maths": 91,
+      "chemistry": 94
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "physics": 92,
+      "maths": 96,
+      "chemistry": 87
+    },
+    {
+      "id": 4,
+      "name": "Brown",
+      "physics": 85,
+      "maths": 90,
+      "chemistry": 92
+    },
+    {
+      "id": 5,
+      "name": "Lee",
+      "physics": 89,
+      "maths": 92,
+      "chemistry": 95
+    },
+    {
+      "id": 6,
+      "name": "Wilson",
+      "physics": 93,
+      "maths": 95,
+      "chemistry": 91
+    },
+    {
+      "id": 7,
+      "name": "Chen",
+      "physics": 91,
+      "maths": 88,
+      "chemistry": 90
+    },
+    {
+      "id": 8,
+      "name": "Kim",
+      "physics": 87,
+      "maths": 93,
+      "chemistry": 92
+    },
+    {
+      "id": 9,
+      "name": "Jones",
+      "physics": 90,
+      "maths": 89,
+      "chemistry": 88
+    },
+    {
+      "id": 10,
+      "name": "Davis",
+      "physics": 94,
+      "maths": 94,
+      "chemistry": 93
+    }
+  ]
+  
